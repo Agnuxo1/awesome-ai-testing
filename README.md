@@ -4,6 +4,10 @@
 
 AI is reshaping software testing. This list collects tools, platforms, and resources that use AI or LLMs to generate tests, heal broken locators, triage failures, write assertions in natural language, and more. Both open source and commercial offerings are included, marked with badges so you can filter by what fits your stack.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/tugkanboz/awesome-ai-testing">upstream project</a>’s index of AI-assisted testing, locator maintenance, failure triage and evaluation resources. QA teams can compare tools against a specific testing bottleneck and reuse existing frameworks instead of assembling every automation layer independently. The practical advantage is focused discovery and workflow design, while reduced maintenance or faster testing must be established on the actual test suite.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 - [Legend](#legend)
